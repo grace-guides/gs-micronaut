@@ -12,8 +12,8 @@ buildscript {
     }
 }
 
-version "0.1"
-group "grace.guides"
+version "0.1-SNAPSHOT"
+group "org.graceframework.guides"
 
 apply plugin:"eclipse"
 apply plugin:"idea"
